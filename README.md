@@ -1,20 +1,61 @@
-### Hi there 👋
+# Hi, I'm Yukiya Hayashi 👋
+
+**SRE @ [AEON SmartTechnology](https://www.aeon.com/)** — keeping large-scale retail infrastructure reliable, observable, and secure.
+
+---
+
+## 🛠 Tech Stack
+
+### Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Observability & Incident Response
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat&logo=pagerduty&logoColor=white)
+
+### Development & Automation
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Badge | Certification |
+|---|---|
+| ⎈ | **CKA** – Certified Kubernetes Administrator |
+| ⎈ | **CKAD** – Certified Kubernetes Application Developer |
+| 🔒 | **CKS** – Certified Kubernetes Security Specialist |
+
+---
+
+## 📊 GitHub Stats
 
 [![morihaya's github stats](https://github-readme-stats.vercel.app/api?username=morihaya&hide=stars&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morihaya&theme=solarized-light&hide=Go&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-<!--
-**morihaya/morihaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Exploring
 
-Here are some ideas to get you started:
+- AI Agent development & AIOps (MCP / Claude / GitHub Copilot)
+- Advanced Terraform drift management with HCP Terraform
+- New Relic advanced configuration & NRQL deep dives
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ About Me
+
+- 🏢 SRE at a top-tier Japanese retail tech company (AEON group)
+- ⎈ Kubernetes enthusiast — CKA / CKAD / CKS certified
+- 🔍 Passionate about observability, incident response, and IaC
+- 🏃 Jogging & 🎬 movies on weekends
+- 🏎️ F1 fan — Suzuka is my favourite circuit
+
+---
+
+> *"Make it observable before you make it complex."*
