@@ -1,6 +1,6 @@
 # Hi, I'm Yukiya Hayashi 👋
 
-**SRE @ [AEON SmartTechnology](https://www.aeon.com/)** — keeping large-scale retail infrastructure reliable, observable, and secure.
+**SRE @ [AEON Smart Technology Co., Ltd](https://www.aeon-st.co.jp/)** — keeping large-scale retail infrastructure reliable, observable, and secure.
 
 ---
 
