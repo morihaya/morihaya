@@ -25,11 +25,15 @@
 
 ## 📜 Certifications
 
-| Badge | Certification |
-|---|---|
-| ⎈ | **CKA** – Certified Kubernetes Administrator |
-| ⎈ | **CKAD** – Certified Kubernetes Application Developer |
-| 🔒 | **CKS** – Certified Kubernetes Security Specialist |
+[![Kubestronaut](https://img.shields.io/badge/🚀%20Kubestronaut-CNCF-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/training/kubestronaut/)
+
+| Cert | Name | Level |
+|---|---|---|
+| **KCNA** | Kubernetes and Cloud Native Associate | Associate |
+| **KCSA** | Kubernetes and Cloud Native Security Associate | Associate |
+| **CKA** | Certified Kubernetes Administrator | Professional |
+| **CKAD** | Certified Kubernetes Application Developer | Professional |
+| **CKS** | Certified Kubernetes Security Specialist | Professional |
 
 ---
 
@@ -51,7 +55,7 @@
 ## ⚡ About Me
 
 - 🏢 SRE at a top-tier Japanese retail tech company (AEON group)
-- ⎈ Kubernetes enthusiast — CKA / CKAD / CKS certified
+- 🚀 Kubestronaut — all 5 CNCF Kubernetes certifications
 - 🔍 Passionate about observability, incident response, and IaC
 - 🏃 Jogging & 🎬 movies on weekends
 - 🏎️ F1 fan — Suzuka is my favourite circuit
