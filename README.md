@@ -37,13 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![morihaya's github stats](https://github-readme-stats.vercel.app/api?username=morihaya&hide=stars&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morihaya&theme=solarized-light&hide=Go&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🌱 Currently Exploring
 
 - AI Agent development & AIOps (MCP / Claude / GitHub Copilot)
